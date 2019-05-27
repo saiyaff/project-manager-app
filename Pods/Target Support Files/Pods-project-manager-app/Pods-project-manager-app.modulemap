@@ -1,0 +1,6 @@
+framework module Pods_project_manager_app {
+  umbrella header "Pods-project-manager-app-umbrella.h"
+
+  export *
+  module * { export * }
+}
